@@ -83,14 +83,14 @@ class Skill(hss.BaseSkill):
     # get_intentlist (overwrites BaseSkill.get_intentlist)
     # --------------------------------------------------------------------------
 
-    def get_intentlist(self):
+    async def get_intentlist(self):
         return self.my_intents
 
     # --------------------------------------------------------------------------
     # handle (overwrites BaseSkill.handle)
     # --------------------------------------------------------------------------
 
-    def handle(self, request, session_id, site_id, intent_name, slots):
+    async def handle(self, request, session_id, site_id, intent_name, slots):
         city = slots["location"] if "location" in slots else None
         time = slots["time"] if "time" in slots else None
 
@@ -110,7 +110,7 @@ class Skill(hss.BaseSkill):
         if not response_message:
             response_message = "Wetter konnte nicht abgefragt werden"
 
-        return self.done(session_id, site_id, intent_name, response_message, "de_DE")
+        return self.answer(session_id, site_id, response_message, "de_DE")
 
     # -------------------------------------------------------------------------
     # query_weather

@@ -1,4 +1,4 @@
-hss_skill>=0.2.1
+hss_skill>=0.3.0
 certifi
 geopy>=1.20.0
 requests>=2.22.0

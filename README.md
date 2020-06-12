@@ -17,7 +17,7 @@ In der kostenlosen Version sind 1000 Aufrufe pro Tag möglich.
 ```
 /home/s710 $> cd hss
 /home/s710/hss $> source venv/bin/activate
-(venv) /home/s710/hss $> hss-cli --install --url=https://github.com/patrickjane/hss-s710-weather
+(venv) /home/s710/hss $> hss-cli -i https://github.com/patrickjane/hss-s710-weather
 Installing 'hss-s710-weather' into '/home/pi/.config/hss_server/skills/hss-s710-weather'
 Cloning repository ...
 Creating venv ...
@@ -32,8 +32,6 @@ Skill 'hss-s710-weather' successfully installed.
 
 (venv) /home/s710/hss $>
 ```
-
-Installation der Weather App aus dem Store: https://console.snips.ai/store/de/skill_lyXWObV8NA8
 
 #### 3) HSS neu starten
 

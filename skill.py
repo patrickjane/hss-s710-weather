@@ -80,13 +80,6 @@ class Skill(hss.BaseSkill):
             raise Exception("Failed to determine homecity coordinates")
 
     # --------------------------------------------------------------------------
-    # get_intentlist (overwrites BaseSkill.get_intentlist)
-    # --------------------------------------------------------------------------
-
-    async def get_intentlist(self):
-        return self.my_intents
-
-    # --------------------------------------------------------------------------
     # handle (overwrites BaseSkill.handle)
     # --------------------------------------------------------------------------
 

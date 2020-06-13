@@ -6,4 +6,6 @@
    "repository": "box@deimos.universe:/storage/data/gitroot/hss-s710-weather",
    "intents": ["s710:getForecast","s710:getTemperature","s710:hasRain","s710:hasSun","s710:hasSnow"],
    "shortDescription": "Queries weather from DarkSky.net"
+   "version": "1.0.0",
+   "language": "de"
 }

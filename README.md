@@ -17,7 +17,7 @@ In der kostenlosen Version sind 1000 Aufrufe pro Tag möglich.
 ```
 /home/s710 $> cd hss
 /home/s710/hss $> source venv/bin/activate
-(venv) /home/s710/hss $> hss-cli -i https://github.com/patrickjane/hss-s710-weather
+(venv) /home/s710/hss $> hss-cli -i hss-s710-weather
 Installing 'hss-s710-weather' into '/home/pi/.config/hss_server/skills/hss-s710-weather'
 Cloning repository ...
 Creating venv ...
@@ -28,14 +28,22 @@ Section 'skill'
 Enter value for parameter 'api_key': xxxxxx
 Enter value for parameter 'homecity': Frankfurt am Main
 
-Skill 'hss-s710-weather' successfully installed.
+
+Updating sentences ...
+Sentences successfully updated
+Updating slots ...
+The following slots already exist: relative_time
+Overwrite? (YES|no)
+
+Slots successfully updated
+Triggering traing ...
+Training successful
+Triggering hss-server with pid 32512 for reload
+
+Skill 'hss-s710-weather' version 1.0.0 successfully installed.
 
 (venv) /home/s710/hss $>
 ```
-
-#### 3) HSS neu starten
-
-Nach der Installation von Skills muss der Hermes Skill Server neu gestartet werden.
 
 # Parameter
 

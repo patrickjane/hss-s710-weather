@@ -103,7 +103,7 @@ class Skill(hss.BaseSkill):
         if not response_message:
             response_message = "Wetter konnte nicht abgefragt werden"
 
-        return self.answer(session_id, site_id, response_message, "de_DE")
+        return self.answer(session_id, site_id, response_message)
 
     # -------------------------------------------------------------------------
     # query_weather

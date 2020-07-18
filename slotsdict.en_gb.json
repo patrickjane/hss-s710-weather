@@ -1,0 +1,38 @@
+{
+   "relative_time": {
+      "now": ["now", "right now", "later", "then", "towards later", "around later"],
+
+      "today": ["today"],
+      "todayMorning": ["this morning", "ealier today"],
+      "todayNoon": ["at noon", "around noon"],
+      "todayAfternoon": ["this afternoon", "around afternoon", "towards afternoon"],
+      "todayEvening": ["this evening", "towards evening", "at evening"],
+      "todayNight": ["tonight", "tonite", "at night", "this night"],
+
+      "tomorrow": ["tomorrow"],
+      "tomorrowMorning": ["tomorrow morning", "earlier tomorrow"],
+      "tomorrowNoon": ["tomorrow at noon", "tomorrow noon", "tomorrow around noon"],
+      "tomorrowAfternoon": ["tomorrow afternoon", "tomorrow at afternoon", "tomorrow around afternoon"],
+      "tomorrowEvening": ["tomorrow evening", "tomorrow towards evening", "tomorrow at evening"],
+      "tomorrowNight": ["tomorrow at night", "tomorrow night"],
+
+      "dayAfter": ["day after tomorrow"],
+      "dayAfterMorning": ["day after tomorrow morning"],
+      "dayAfterNoon": ["day after tomorrow at noon", "day after tomorrow noon", "day after tomorrow around noon"],
+      "dayAfterAfternoon": ["day after tomorrow afternoon", "day after tomorrow at afternoon", "day after tomorrow around afternoon"],
+      "dayAfterEvening": ["day after tomorrow evening", "day after tomorrow towards evening", "day after tomorrow at evening"],
+      "dayAfterNight": ["day after tomorrow at night", "day after tomorrow night"],
+
+      "thisWeek": ["this week"],
+      "weekend": ["at the and of week", "at weekend", "towards the end of the week"],
+      "nextWeek": ["next week", "in the next week", "during next week"],
+
+      "monday": ["monday"],
+      "tuesday": ["tuesday"],
+      "wednesday": ["wednesday"],
+      "thursday": ["thursday"],
+      "friday": ["friday"],
+      "saturday": ["saturday"],
+      "sunday": ["sunday"]
+   }
+}

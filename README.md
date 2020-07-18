@@ -51,6 +51,8 @@ Die App bentöigt die folgenden Parameter:
 
 - `api_key`: Der in Installation/1) erstellte API-Key von DarkSky
 - `homecity`: Die Stadt für die Wetter abgefragt wird, wenn kein Ort genannt wird ("Wie wird das Wetter morgen?")
+- `unit`: Format der Einheiten. `si` für SI-Einheiten (default) oder `us` für imperiale Einheiten
+- `language`: Sprache des Skills (`de_DE` oder `en_GB`)
 
 # Funktionen
 

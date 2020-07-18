@@ -3,9 +3,9 @@
    "platform": "hss-python",
    "type": "weather",
    "author": "Patrick Jane",
-   "repository": "box@deimos.universe:/storage/data/gitroot/hss-s710-weather",
+   "repository": "git@github.com:patrickjane/hss-s710-weather.git",
    "intents": ["s710:getForecast","s710:getTemperature","s710:hasRain","s710:hasSun","s710:hasSnow"],
    "shortDescription": "Queries weather from DarkSky.net",
-   "version": "1.0.0",
-   "language": "de_DE"
+   "version": "1.1.0",
+   "language": ["en_GB", "de_DE"]
 }

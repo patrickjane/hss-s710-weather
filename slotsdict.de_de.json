@@ -1,0 +1,41 @@
+{
+   "relative_time": {
+      "now": ["jetzt", "gerade", "später", "nachher", "gegen später"],
+
+      "today": ["heute"],
+      "todayMorning": ["heute früh", "heute morgen"],
+      "todayForenoon": ["heute vormittag", "am vormittag"],
+      "todayNoon": ["heute mittag", "gegen mittag", "am mittag"],
+      "todayAfternoon": ["heute nachmittag", "gegen nachmittag", "am nachmittag"],
+      "todayEvening": ["heute abend", "gegen abend", "am abend"],
+      "todayNight": ["heute nacht", "in der nacht"],
+
+      "tomorrow": ["morgen"],
+      "tomorrowMorning": ["morgen früh"],
+      "tomorrowForenoon": ["morgen vormittag", "morgen am vormittag"],
+      "tomorrowNoon": ["morgen mittag", "morgen gegen mittag", "morgen am mittag"],
+      "tomorrowAfternoon": ["morgen nachmittag", "morgen gegen nachmittag", "morgen am nachmittag"],
+      "tomorrowEvening": ["morgen abend", "morgen gegen abend", "morgen am abend"],
+      "tomorrowNight": ["morgen nacht", "morgen in der nacht"],
+
+      "dayAfter": ["übermorgen"],
+      "dayAfterMorning": ["übermorgen früh"],
+      "dayAfterForenoon": ["übermorgen vormittag", "übermorgen am vormittag"],
+      "dayAfterNoon": ["übermorgen mittag", "übermorgen gegen mittag", "übermorgen am mittag"],
+      "dayAfterAfternoon": ["übermorgen nachmittag", "übermorgen gegen nachmittag", "übermorgen am nachmittag"],
+      "dayAfterEvening": ["übermorgen abend", "übermorgen gegen abend", "übermorgen am abend"],
+      "dayAfterNight": ["übermorgen nacht", "übermorgen in der nacht"],
+
+      "thisWeek": ["diese woche"],
+      "weekend": ["ende der woche", "gegen ende der woche", "am wochenende"],
+      "nextWeek": ["nächste woche"],
+
+      "monday": ["montag"],
+      "tuesday": ["dienstag"],
+      "wednesday": ["mittwoch"],
+      "thursday": ["donnerstag"],
+      "friday": ["freitag"],
+      "saturday": ["samstag"],
+      "sunday": ["sonntag"]
+   }
+}

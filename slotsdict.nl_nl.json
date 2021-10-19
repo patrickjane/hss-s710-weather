@@ -1,0 +1,38 @@
+{
+   "relative_time": {
+      "now": ["nu", "momenteel", "later", "hierna", "straks", "zometeen"],
+
+      "today": ["vandaag"],
+      "todayMorning": ["vanochtend", "eerder vandaag"],
+      "todayNoon": ["bij de lunch", "rond lunchtijd"],
+      "todayAfternoon": ["vanmiddag", "later vandaag", "begin van de middag" , "namiddag"],
+      "todayEvening": ["vanavond", "begin van de avond", "in de loop van de avond"],
+      "todayNight": ["vannacht", "'s nachts"],
+
+      "tomorrow": ["morgen"],
+      "tomorrowMorning": ["morgenavond"],
+      "tomorrowNoon": ["morgen bij de lunch", "morgen om lunchtijd", "morgen rond lunchtijd"],
+      "tomorrowAfternoon": ["morgenmiddag", "morgen in de loop van de middag"],
+      "tomorrowEvening": ["morgenavond", "morgen begin van de avond", "morgen in de loop van de avond"],
+      "tomorrowNight": ["morgennacht"],
+
+      "dayAfter": ["overmorgen"],
+      "dayAfterMorning": ["overmorgen in de ochtend"],
+      "dayAfterNoon": ["overmorgen bij de lunch", "overmorgen om lunchtijd", "overmorgen rond lunchtijd"],
+      "dayAfterAfternoon": ["overmorgen in de middag", "overmorgen in de loop van de middag"],
+      "dayAfterEvening": ["overmorgen begin van de avond", "overmorgen in de loop van de avond"],
+      "dayAfterNight": ["overmorgen in de nacht"],
+
+      "thisWeek": ["deze week"],
+      "weekend": ["aan het einde van de week", "in het weekend", "tegen het weekend", "in het weekeinde", "tegen het weekeinde"],
+      "nextWeek": ["volgende week", "in de loop van volgende week", "komende week", "in de loop van komende week", "ergens volgende week", "ergens komende week"],
+
+      "monday": ["maandag"],
+      "tuesday": ["dinsdag"],
+      "wednesday": ["woensdag"],
+      "thursday": ["donderdag"],
+      "friday": ["vrijdag"],
+      "saturday": ["zaterdag"],
+      "sunday": ["zondag"]
+   }
+}
